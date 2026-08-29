@@ -10,9 +10,9 @@ orientation = portrait
 fullscreen = 0
 android.permissions = INTERNET
 
-# إعدادات الإصدارات المستقرة لمنع أخطاء التوافق البرمجي
-android.api = 31
+# التوافقية النهائية المطلوبة من النظام
+android.api = 33
 android.min_api = 21
-android.sdk = 31
-android.ndk = 23b
+android.sdk = 33
+android.ndk = 25b
 android.accept_sdk_license = True
