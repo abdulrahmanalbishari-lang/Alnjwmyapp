@@ -10,9 +10,9 @@ orientation = portrait
 fullscreen = 0
 android.permissions = INTERNET
 
-# إعدادات أندرويد المستقرة لتجنب مشاكل التثبيت والترخيص
-android.api = 33
+# إعدادات الإصدارات المستقرة لمنع أخطاء التوافق البرمجي
+android.api = 31
 android.min_api = 21
-android.sdk = 33
-android.ndk = 25b
+android.sdk = 31
+android.ndk = 23b
 android.accept_sdk_license = True
