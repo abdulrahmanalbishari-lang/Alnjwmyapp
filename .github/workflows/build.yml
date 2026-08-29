@@ -32,7 +32,8 @@ jobs:
               libncursesw5-dev \
               libffi-dev \
               libssl-dev \
-              build-essential
+              build-essential \
+              openjdk-17-jdk
 
       - name: Install Buildozer and Cython
         run: |
